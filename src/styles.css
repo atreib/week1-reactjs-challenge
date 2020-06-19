@@ -33,6 +33,10 @@ button {
   font-size: 14px;
 }
 
+.btn-primary {
+  background: #7159c1;
+}
+
 div li button {
   margin: 0 15px;
   background: #ca4949;
